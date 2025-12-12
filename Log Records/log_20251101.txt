@@ -1,0 +1,32 @@
+[01/11/2025 8:22:45 pm] Searched record using keyword: dito
+[01/11/2025 8:22:49 pm] Viewed all adoption records
+[01/11/2025 8:22:56 pm] Searched record using keyword: dota
+[01/11/2025 8:45:28 pm] Added adoption record: raven - princess - sugar glider - 01/11/2025 8:45:28 pm
+[01/11/2025 8:45:32 pm] Viewed all adoption records
+[01/11/2025 8:45:53 pm] Searched record using keyword: princess
+[01/11/2025 8:46:03 pm] Searched record using keyword: raven
+[01/11/2025 8:46:13 pm] Searched record using keyword: dota
+[01/11/2025 11:10:18 pm] Added adoption record: Princess Gasco - Browny - Dog - 01/11/2025 11:10:18 pm
+[01/11/2025 11:12:41 pm] Added adoption record: Raven Ibanyez - Whity - Dog - 01/11/2025 11:12:41 pm
+[01/11/2025 11:17:31 pm] Added adoption record: Andrew Membreve - Jordan - Dog - 01/11/2025 11:17:31 pm
+[01/11/2025 11:18:42 pm] Viewed all adoption records
+[01/11/2025 11:18:51 pm] Searched record using keyword: gasco
+[01/11/2025 11:19:34 pm] Viewed all adoption records
+[01/11/2025 11:19:40 pm] Searched record using keyword: gasco
+[01/11/2025 11:20:06 pm] Deleted record of gasco
+[01/11/2025 11:20:10 pm] Viewed summary report
+[01/11/2025 11:20:25 pm] Viewed log file log_20251026.txt
+[01/11/2025 11:20:36 pm] Viewed log file log_20251026.txt
+[01/11/2025 11:20:46 pm] Viewed log file log_20251027.txt
+[01/11/2025 11:20:54 pm] System exited.
+[01/11/2025 11:25:39 pm] Added adoption record: Gasco - Dito - dog - 01/11/2025 11:25:39 pm
+[01/11/2025 11:25:50 pm] Viewed all adoption records
+[01/11/2025 11:25:58 pm] Searched record using keyword: dito
+[01/11/2025 11:26:26 pm] Searched record using keyword: dito
+[01/11/2025 11:26:32 pm] Deleted record of Gasco
+[01/11/2025 11:27:35 pm] Added adoption record: Gasco - Jordan - Dog - 01/11/2025 11:27:35 pm
+[01/11/2025 11:27:46 pm] Viewed all adoption records
+[01/11/2025 11:27:56 pm] Searched record using keyword: jordan
+[01/11/2025 11:28:20 pm] Deleted record of Gasco
+[01/11/2025 11:28:25 pm] Viewed summary report
+[01/11/2025 11:28:45 pm] Viewed log file log_20251026.txt

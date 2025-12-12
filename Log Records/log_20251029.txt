@@ -1,0 +1,9 @@
+[29/10/2025 5:51:04 am] Added adoption record: Andrew Gasco - Dito - lizard - 29/10/2025 5:51:04 am
+[29/10/2025 5:51:10 am] Viewed all adoption records
+[29/10/2025 5:52:53 am] Deleted record of andrew
+[29/10/2025 5:53:02 am] Viewed all adoption records
+[29/10/2025 9:42:49 am] Viewed log file log_20251026.txt
+[29/10/2025 9:43:06 am] Viewed log file log_20251027.txt
+[29/10/2025 9:43:50 am] Viewed all adoption records
+[29/10/2025 9:44:27 am] Viewed all adoption records
+[29/10/2025 9:46:29 am] Viewed summary report

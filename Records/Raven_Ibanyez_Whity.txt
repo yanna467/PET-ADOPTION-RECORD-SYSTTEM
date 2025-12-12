@@ -1,0 +1,4 @@
+Adopter: Raven Ibanyez
+Pet: Whity
+Type: Dog
+Date Adopted: 01/11/2025 11:12:41 pm

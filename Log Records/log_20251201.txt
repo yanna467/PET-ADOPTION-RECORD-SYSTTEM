@@ -1,0 +1,30 @@
+[01/12/2025 12:02:41 pm] (yana746) Viewed all adoption records
+[01/12/2025 12:03:02 pm] (yana746) Deleted record file: raven_ramen.txt
+[01/12/2025 12:03:11 pm] (yana746) Viewed all adoption records
+[01/12/2025 12:03:25 pm] (yana746) Viewed all adoption records
+[01/12/2025 12:03:43 pm] (yana746) Viewed all adoption records
+[01/12/2025 12:04:26 pm] (yana746) Deleted record file: bperts_Suny.txt
+[01/12/2025 12:04:39 pm] (yana746) Viewed all adoption records
+[01/12/2025 12:04:58 pm] (yana746) Deleted record file: rumarie_mew.txt
+[01/12/2025 12:05:10 pm] (yana746) Viewed all adoption records
+[01/12/2025 12:05:34 pm] (yana746) Deleted record file: Raven_Quin_princess.txt
+[01/12/2025 12:06:13 pm] (yana746) Added adoption record: Amiel Bulawit adopted Thor (Dog)
+[01/12/2025 12:07:22 pm] (yana746) Added adoption record: Kent Fuentes adopted Luna (Cat)
+[01/12/2025 12:07:40 pm] (yana746) Viewed all adoption records
+[01/12/2025 12:08:10 pm] (yana746) Viewed all adoption records
+[01/12/2025 12:08:18 pm] (yana746) Searched records with keyword: gasco
+[01/12/2025 12:08:39 pm] (yana746) Searched records with keyword: gasco
+[01/12/2025 12:08:56 pm] (yana746) Searched records with keyword: niña
+[01/12/2025 12:09:06 pm] (yana746) Deleted record file: Niña_Gasco_Ada.txt
+[01/12/2025 12:12:10 pm] (yana746) Viewed all adoption records
+[01/12/2025 12:28:58 pm] (ruru) Viewed record by number: Raven_Ibanyez_Whity.txt
+[01/12/2025 12:34:13 pm] (ruru) Viewed all adoption records
+[01/12/2025 12:40:51 pm] (ruru) Viewed all adoption records
+[01/12/2025 12:44:59 pm] (ruru) Viewed all adoption records
+[01/12/2025 12:47:49 pm] (ruru) Viewed all adoption records
+[01/12/2025 12:48:47 pm] (ruru) Viewed all adoption records
+[01/12/2025 12:49:36 pm] (ruru) Added adoption record: Joan Nuñez adopted Lucy (Cat)
+[01/12/2025 12:50:08 pm] (ruru) Added adoption record: Timoty Durano adopted Buddy (Dog)
+[01/12/2025 12:50:17 pm] (ruru) Viewed all adoption records
+[01/12/2025 12:50:48 pm] (ruru) Added adoption record: Ruanz Membreve adopted Milo (Dog)
+[01/12/2025 12:52:03 pm] (ruru) Added adoption record: Godfree Gasco adopted Loki (Hamster)
