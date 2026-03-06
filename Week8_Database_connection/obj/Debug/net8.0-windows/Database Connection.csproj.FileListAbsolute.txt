@@ -1,0 +1,60 @@
+C:\Users\acer\Source\Repos\Database-Connection\bin\Debug\net8.0-windows\Database Connection.exe
+C:\Users\acer\Source\Repos\Database-Connection\bin\Debug\net8.0-windows\Database Connection.deps.json
+C:\Users\acer\Source\Repos\Database-Connection\bin\Debug\net8.0-windows\Database Connection.runtimeconfig.json
+C:\Users\acer\Source\Repos\Database-Connection\bin\Debug\net8.0-windows\Database Connection.dll
+C:\Users\acer\Source\Repos\Database-Connection\bin\Debug\net8.0-windows\Database Connection.pdb
+C:\Users\acer\Source\Repos\Database-Connection\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\acer\Source\Repos\Database-Connection\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\acer\Source\Repos\Database-Connection\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\acer\Source\Repos\Database-Connection\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\acer\Source\Repos\Database-Connection\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\acer\Source\Repos\Database-Connection\bin\Debug\net8.0-windows\System.Threading.AccessControl.dll
+C:\Users\acer\Source\Repos\Database-Connection\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\acer\Source\Repos\Database-Connection\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\acer\Source\Repos\Database-Connection\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\acer\Source\Repos\Database-Connection\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\acer\Source\Repos\Database-Connection\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Threading.AccessControl.dll
+C:\Users\acer\Source\Repos\Database-Connection\obj\Debug\net8.0-windows\Database Connection.csproj.AssemblyReference.cache
+C:\Users\acer\Source\Repos\Database-Connection\obj\Debug\net8.0-windows\Database_Connection.Form1.resources
+C:\Users\acer\Source\Repos\Database-Connection\obj\Debug\net8.0-windows\Database Connection.csproj.GenerateResource.cache
+C:\Users\acer\Source\Repos\Database-Connection\obj\Debug\net8.0-windows\Database Connection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Source\Repos\Database-Connection\obj\Debug\net8.0-windows\Database Connection.AssemblyInfoInputs.cache
+C:\Users\acer\Source\Repos\Database-Connection\obj\Debug\net8.0-windows\Database Connection.AssemblyInfo.cs
+C:\Users\acer\Source\Repos\Database-Connection\obj\Debug\net8.0-windows\Database Connection.csproj.CoreCompileInputs.cache
+C:\Users\acer\Source\Repos\Database-Connection\obj\Debug\net8.0-windows\Database Connection.sourcelink.json
+C:\Users\acer\Source\Repos\Database-Connection\obj\Debug\net8.0-windows\Database.2ED04EA8.Up2Date
+C:\Users\acer\Source\Repos\Database-Connection\obj\Debug\net8.0-windows\Database Connection.dll
+C:\Users\acer\Source\Repos\Database-Connection\obj\Debug\net8.0-windows\refint\Database Connection.dll
+C:\Users\acer\Source\Repos\Database-Connection\obj\Debug\net8.0-windows\Database Connection.pdb
+C:\Users\acer\Source\Repos\Database-Connection\obj\Debug\net8.0-windows\Database Connection.genruntimeconfig.cache
+C:\Users\acer\Source\Repos\Database-Connection\obj\Debug\net8.0-windows\ref\Database Connection.dll
+C:\C# projects\Week8_Database_connection\bin\Debug\net8.0-windows\Database Connection.exe
+C:\C# projects\Week8_Database_connection\bin\Debug\net8.0-windows\Database Connection.deps.json
+C:\C# projects\Week8_Database_connection\bin\Debug\net8.0-windows\Database Connection.runtimeconfig.json
+C:\C# projects\Week8_Database_connection\bin\Debug\net8.0-windows\Database Connection.dll
+C:\C# projects\Week8_Database_connection\bin\Debug\net8.0-windows\Database Connection.pdb
+C:\C# projects\Week8_Database_connection\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\C# projects\Week8_Database_connection\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\C# projects\Week8_Database_connection\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\C# projects\Week8_Database_connection\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\C# projects\Week8_Database_connection\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\C# projects\Week8_Database_connection\bin\Debug\net8.0-windows\System.Threading.AccessControl.dll
+C:\C# projects\Week8_Database_connection\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\C# projects\Week8_Database_connection\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\C# projects\Week8_Database_connection\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\C# projects\Week8_Database_connection\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\C# projects\Week8_Database_connection\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Threading.AccessControl.dll
+C:\C# projects\Week8_Database_connection\obj\Debug\net8.0-windows\Database Connection.csproj.AssemblyReference.cache
+C:\C# projects\Week8_Database_connection\obj\Debug\net8.0-windows\Database_Connection.Form1.resources
+C:\C# projects\Week8_Database_connection\obj\Debug\net8.0-windows\Database Connection.csproj.GenerateResource.cache
+C:\C# projects\Week8_Database_connection\obj\Debug\net8.0-windows\Database Connection.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# projects\Week8_Database_connection\obj\Debug\net8.0-windows\Database Connection.AssemblyInfoInputs.cache
+C:\C# projects\Week8_Database_connection\obj\Debug\net8.0-windows\Database Connection.AssemblyInfo.cs
+C:\C# projects\Week8_Database_connection\obj\Debug\net8.0-windows\Database Connection.csproj.CoreCompileInputs.cache
+C:\C# projects\Week8_Database_connection\obj\Debug\net8.0-windows\Database Connection.sourcelink.json
+C:\C# projects\Week8_Database_connection\obj\Debug\net8.0-windows\Database.2ED04EA8.Up2Date
+C:\C# projects\Week8_Database_connection\obj\Debug\net8.0-windows\Database Connection.dll
+C:\C# projects\Week8_Database_connection\obj\Debug\net8.0-windows\refint\Database Connection.dll
+C:\C# projects\Week8_Database_connection\obj\Debug\net8.0-windows\Database Connection.pdb
+C:\C# projects\Week8_Database_connection\obj\Debug\net8.0-windows\Database Connection.genruntimeconfig.cache
+C:\C# projects\Week8_Database_connection\obj\Debug\net8.0-windows\ref\Database Connection.dll
